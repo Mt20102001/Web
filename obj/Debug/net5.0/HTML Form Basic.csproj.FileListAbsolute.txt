@@ -1,0 +1,35 @@
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\bin\Debug\net5.0\appsettings.json
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\bin\Debug\net5.0\HTML Form Basic.exe
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\bin\Debug\net5.0\HTML Form Basic.deps.json
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\bin\Debug\net5.0\HTML Form Basic.runtimeconfig.json
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\bin\Debug\net5.0\HTML Form Basic.runtimeconfig.dev.json
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\bin\Debug\net5.0\HTML Form Basic.dll
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\bin\Debug\net5.0\ref\HTML Form Basic.dll
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\bin\Debug\net5.0\HTML Form Basic.pdb
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\bin\Debug\net5.0\HTML Form Basic.Views.dll
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\bin\Debug\net5.0\HTML Form Basic.Views.pdb
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.csproj.AssemblyReference.cache
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.AssemblyInfoInputs.cache
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.AssemblyInfo.cs
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.RazorAssemblyInfo.cache
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.RazorAssemblyInfo.cs
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\staticwebassets\HTML Form Basic.StaticWebAssets.Manifest.cache
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\staticwebassets\HTML Form Basic.StaticWebAssets.xml
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\scopedcss\bundle\HTML Form Basic.styles.css
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.TagHelpers.input.cache
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.TagHelpers.output.cache
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.RazorCoreGenerate.cache
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.RazorTargetAssemblyInfo.cache
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.RazorTargetAssemblyInfo.cs
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.Views.pdb
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.dll
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\ref\HTML Form Basic.dll
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.pdb
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.genruntimeconfig.cache
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.csproj.CopyComplete
