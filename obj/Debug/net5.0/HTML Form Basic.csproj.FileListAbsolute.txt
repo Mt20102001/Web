@@ -33,3 +33,4 @@ C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\ref\HTML Form Basic.
 C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.pdb
 C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.genruntimeconfig.cache
 C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\HTML Form Basic.csproj.CopyComplete
+C:\Users\Minh Tuan\Desktop\HTML Form Basic\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs

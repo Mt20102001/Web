@@ -16,6 +16,13 @@ namespace HTML_Form_Basic.Controllers
             return View();
         }
 
+        public IActionResult Edit()
+        {
+            var model = new ProductEditModel();
+            model.Name = "Test";
+            return View(model);
+        }
+
         [HttpPost]
         public IActionResult Create(ProductEditModel model)
         {
@@ -29,6 +36,21 @@ namespace HTML_Form_Basic.Controllers
                 message = "Failed to create the product. Please try again.";
             }
             return Content(message);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(ProductEditModel model)
+        {
+            string messageEdit = string.Empty;
+            if (ModelState.IsValid)
+            {
+                messageEdit = "Product: ID: " + model.ID + ", Name: " + model.Name + ", Rate: " + model.Rate + ", Rating: " + model.Rating + " create successfully.";
+            }
+            else
+            {
+                messageEdit = "Failed to create the product. Please try again.";
+            }
+            return Content(messageEdit);
         }
     }
 }
